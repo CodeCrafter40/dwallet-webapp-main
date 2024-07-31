@@ -1,83 +1,62 @@
-## e-wallet 
-Full stack web app with React and Spring Boot used for managing digital wallet and transactions.
+---
 
-<br/>
+**Digital Wallet Ecosystem: "Dwallet"**  
+**Project Title:** Dwallet - Sector: FinTech Industry
 
-<img src="backend/src/main/resources/docs/images/dashboard.png" width="1060"/>
+**Description:**  
+I introduced "Digital Vault," a digital wallet ecosystem that facilitates contactless transactions, enhances financial operations for consumers and merchants, promotes safety, and expands digital footprints amidst public health concerns.
 
-<br/>
+**What the Product is All About:**  
+Digital Vault is a comprehensive digital wallet solution designed to simplify financial transactions and promote contactless interactions. It offers an array of features tailored for both consumers and merchants, ensuring ease of use and security.
 
-<img src="backend/src/main/resources/docs/images/wallets.png" width="1060"/>
-<br/>
+**Key Features:**
 
-### Description
-This application allows users to implement e-wallet with REST API to create it, top it up, check its balance and withdraw. 
-Users can register and login to the system using their credentials. They can also add any wallets for any account provided by IBAN 
-and transfer to their wallet or any other wallet defined in the system.
+**Consumer Web App:**
+- **Digital Payments via QR Codes:** Quick and secure transactions with a simple scan.
+- **Utility Bill Payments:** Hassle-free payments for utilities like water and electricity.
+- **Inter-bank Fund Transfers:** Easy movement of funds across different banks.
+- **Pay to Merchants:** Seamless payments at various merchants including fast food chains and shopping malls.
+- **Contact-less Cash Withdrawal:** Innovative solution for safe withdrawals from partner ATMs, reducing the risk of infections like COVID-19.
 
-The application also has a custom IBAN validator that can easily be applied any IBAN fields via annotation as shown below:
+**Merchant Web App:**
+- **Ledger Access:** Easy access to financial ledgers.
+- **Financial Flow Monitoring:** View and manage cash inflows and outflows.
+- **Promotion Campaigns:** Tools to run and manage promotional campaigns offering special deals and discounts.
 
-```
-@ValidIban(message = "{iban.valid}")
-private String iban;
-```
+**Integrations and Tech Stack:**
 
-<br/>
+**Technologies Used:**
+- **Frontend:** React JS
+- **Backend:** Java Spring Boot
+- **Database:** MySQL
 
-<img src="backend/src/main/resources/docs/images/transactions.png" width="1060"/>
+**Integrations:**
+- **Firebase:** For real-time database and authentication services.
+- **2 Factor Authentication:** To enhance security.
+- **Payment Gateway (Stripe):** For secure and reliable payment processing.
 
-<br/>
+**Challenges Faced:**  
+Developing "Digital Vault," a seamless digital wallet to simplify transactions and enable contactless interactions, posed significant challenges. These included persuading traditional businesses to embrace this new platform, ensuring interoperability across diverse banking systems, and navigating stringent UK financial regulations. These obstacles demanded innovative solutions to build trust, ensure seamless integration, and maintain compliance, all while enhancing public health safety through reduced physical contact.
 
-<img src="backend/src/main/resources/docs/images/transfers.png" width="1060"/>
+**My Contribution:**  
+I developed the "Digital Vault," a robust digital wallet ecosystem designed to streamline financial transactions and enhance contactless interactions. My contributions included:
 
-<br/>
+- **Frontend Development:** Utilized React JS to build a responsive and intuitive user interface for both consumer and merchant applications.
+- **Backend Development:** Created a secure and scalable backend using Java Spring Boot to handle transactions, user management, and integration with various financial systems.
+- **Database Management:** Employed MySQL to ensure efficient and reliable data storage and retrieval.
+- **Integration Handling:** Integrated Firebase for real-time data and authentication, implemented 2-factor authentication for enhanced security, and utilized different payment gateways for secure transactions.
 
-### Architecture
+**Impact Created:**
+- **Enhanced Consumer Experience:** Consumers could handle all their financial transactions in one place. The flexibility to pay bills, shop, or withdraw cash without physical interaction reduced friction and improved their overall financial experience.
+- **Safety First:** Amid global health crises like COVID-19, contact-less transactions minimized risks for both consumers and merchants.
+- **Empowered Merchants:** Merchants gained better financial oversight and customer engagement tools, leading to improved business decisions and increased customer loyalty.
+- **Expansion of Digital Footprint:** Successful deployment expanded the digital presence for many businesses, aligning with global digitalization trends.
+- **Speed of Transactions:** Digital wallets enable instant money transfers and payments, reducing the time and hassle associated with cash or card transactions.
+- **Ease of Use:** Users can manage their finances, pay bills, and make purchases from a single app, streamlining their financial management.
+- **Security Features:** Digital wallets often include advanced security features such as encryption, biometric authentication, and fraud detection, providing users with a secure way to handle their finances.
+- **Reduction of Cash-Related Crime:** By reducing the need for physical cash, digital wallets can help decrease the risk of theft and other cash-related crimes.
+- **Consumer Behavior Analysis:** Digital wallets can provide valuable data on spending patterns, helping businesses and financial institutions understand consumer behavior and improve their services.
+- **Personal Finance Management:** Users can gain insights into their spending habits through detailed transaction histories and analytics, helping them manage their finances better.
 
-The relationship between the entities is shown on [Architecture](backend/src/main/resources/docs/architecture.md) section.
-
-<br/>
-
-### Getting Started
-
-In order to run and test the application, see details on [How to run?](backend/src/main/resources/docs/how_to_run.md) and [How to test?](backend/src/main/resources/docs/how_to_test.md) sections.
-
-<br/>
-
-### Dependencies
-
-* Spring Boot
-* Spring Web
-* Spring Security
-* Spring Data JPA
-* Lombok
-* MapStruct
-* PostgreSQL
-* Flyway
-* React
-* Node.js
-* Material UI
-
-<br/>
-
-### Documentation
-[Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)<br/>
-[Spring Security](https://docs.spring.io/spring-security/reference/index.html)<br/>
-[Spring Data JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)<br/>
-[springdoc-openapi v2](https://springdoc.org/v2/)<br/>
-[MapStruct](https://mapstruct.org/)<br/>
-[JUnit 5](https://junit.org/junit5/docs/snapshot/user-guide/)<br/>
-[Entity Relationship Diagram (ERD)](https://www.lucidchart.com/pages/er-diagrams)<br/>
-[React](https://react.dev/)<br/>
-[Material UI](https://mui.com/)<br/>
-[Notistack](https://notistack.com/features/basic)<br/>
-[Register of countries using the IBAN standard](https://www.iban.com/structure)<br/>
-
-<br/>
-
-### Version History
-
-* v1.0.0 Initial Release
-
-<br/>
-<br/>
+**Conclusion:**  
+"Dwallet" emerged as a holistic digital wallet solution, bridging gaps between consumers and merchants, fostering trust, and promoting safety. It stands as a testament to my commitment to innovative solutions and digital transformations in the financial sector.
