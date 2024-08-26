@@ -62,11 +62,9 @@ I developed the "Digital Vault," a robust digital wallet ecosystem designed to s
 "Dwallet" emerged as a holistic digital wallet solution, bridging gaps between consumers and merchants, fostering trust, and promoting safety. It stands as a testament to my commitment to innovative solutions and digital transformations in the financial sector.
 
 **Snapshots:** 
-![6  mobile loads](https://github.com/user-attachments/assets/88a310ad-58a5-46c0-a8c0-1aab615811d7)
-![5  Money Transfer](https://github.com/user-attachments/assets/2edba969-f636-4d0c-9d8a-88706420a512)
-![3  home](https://github.com/user-attachments/assets/be950d6a-60d7-4fb7-8ff4-b3d9d8c779b0)
-![1  login](https://github.com/user-attachments/assets/3be4a6b2-11a2-404c-aa36-89403519bf3a)![3  home](https://github.com/user-attachments/assets/590180e4-05be-468c-8ca2-7d501661bf64)
-![1  login](https://github.com/user-attachments/assets/70bdec9f-cb79-4199-b9ee-9ddcb81499be)
-![8  Atm](https://github.com/user-attachments/assets/4b2e21c6-27b5-4eaa-ab37-d60ccd46c9cf)
+![8  define_money_transfer_service](https://github.com/user-attachments/assets/dd47c70b-871a-487e-8010-b43486bb0ae2)
+![6  define_mobile_services](https://github.com/user-attachments/assets/6b16bc6b-dcea-4763-9e02-104e9938feb2)
+![3  change_password](https://github.com/user-attachments/assets/ea3057e3-2165-4a35-89ea-0ad1ffb789b3)
+![2  admin_dashboard](https://github.com/user-attachments/assets/193c1117-6320-44e3-9087-64d2a0088edd)
+![1  login](https://github.com/user-attachments/assets/61a01312-957b-476b-a5dd-08bc0d1b5292)
 
-![all_transfers_success_page](https://github.com/user-attachments/assets/8748e5bd-e878-4c0c-b51d-44c03d9000e2)
