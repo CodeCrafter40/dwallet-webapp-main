@@ -25,6 +25,16 @@ Digital Vault is a comprehensive digital wallet solution designed to simplify fi
 
 **Integrations and Tech Stack:**
 
+![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0.1-green?logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-16.0.0-E434AA?logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.4-green?logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24.0.4-blue?logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-29.4.3-blue?logo=jest&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-5.80.0-blue?logo=webpack&logoColor=white)
+
 **Technologies Used:**
 - **Frontend:** React JS
 - **Backend:** Java Spring Boot
